@@ -1,5 +1,4 @@
 import streamlit as st
-import OpenAI
 
 with st.sidebar:
     messages = st.container(height=300)
